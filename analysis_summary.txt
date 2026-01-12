@@ -1,0 +1,23 @@
+EXPLORATORY DATA ANALYSIS REPORT - TIPS DATASET
+Generated on: 2026-01-12 13:56:45
+Student: AJAY SAHU
+
+DATASET SUMMARY:
+- Total rows: 150
+- Total columns: 10
+- Date range: N/A (simulated data)
+- Complete cases: 150 of 150
+
+KEY STATISTICS:
+- Average bill: $25.88
+- Average tip: $4.13
+- Average tip percentage: 15.8%
+- Most common party size: 5
+
+BUSINESS INSIGHTS:
+1. Best tipping day: Thursday
+2. Best tipping time: Lunch
+3. Most profitable party size: 4 people
+4. Highest correlation: Bill amount vs Tip amount (0.799)
+
+PROJECT COMPLETION: All requirements met successfully.
